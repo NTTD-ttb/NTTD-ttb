@@ -3,7 +3,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A12,40:008F5A,75:39FF88,100:071A12&height=220&section=header&text=NGUYEN%20THI%20THUY%20DUY&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=IT%20STUDENT%20%7C%20ASPIRING%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F47B35,40:FFAA70,75:FFE1CC,100:FFFFFF&height=250&section=header&text=NGUYEN%20THI%20THUY%20DUY&fontSize=38&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=IT%20STUDENT%20%7C%20ASPIRING%20DEVELOPER&descSize=16&descAlignY=62&descColor=FFFFFF"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF88&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Thuy+Duy+%F0%9F%91%8B;Information+Technology+Student;Web+Development+Enthusiast;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
