@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F47B35,35:FF995C,70:FFD0AD,100:FFFFFF&height=260&section=header&text=THUY%20DUY&fontSize=75&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=INFORMATION%20TECHNOLOGY%20%7C%20CREATIVE%20DEVELOPER&descSize=15&descAlignY=60&descColor=FFFFFF"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D95316,35:EF793C,70:FF9B61,100:FFD0AD&height=260&section=header&text=NGUYEN%20THI%20THUY%20DUY&fontSize=43&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=INFORMATION%20TECHNOLOGY%20STUDENT&descSize=17&descAlignY=58&descColor=FFFFFF"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=F47B35&center=true&vCenter=true&width=700&height=55&lines=Hello%2C+I'm+Nguyen+Thi+Thuy+Duy+%F0%9F%91%8B;Welcome+to+my+creative+space+%E2%9C%A8;Web+Development+Enthusiast+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Experiences;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing Animation"/>
 
